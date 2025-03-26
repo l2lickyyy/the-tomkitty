@@ -1,0 +1,18 @@
+﻿  EnemyObject.cpp
+C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'EnemyObject.cpp')
+  
+  Psylp4Engine.cpp
+C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Psylp4Engine.cpp')
+  
+  Psylp4Object.cpp
+C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Psylp4Object.cpp')
+  
+  mainfunction.cpp
+C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'mainfunction.cpp')
+  
+  Generating Code...
+  CourseworkBase.vcxproj -> C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\Debug\CourseworkBase2020.exe
