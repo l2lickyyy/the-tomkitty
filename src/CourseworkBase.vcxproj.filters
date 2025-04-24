@@ -126,19 +126,25 @@
     <ClInclude Include="ExampleFilterPointClasses.h">
       <Filter>Header Files\More advanced demos</Filter>
     </ClInclude>
-    <ClInclude Include="Psylp4Engine.h">
+    <ClInclude Include="demoA.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Psylp4Object.h">
+    <ClInclude Include="myTileManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="EnemyObject.h">
+    <ClInclude Include="objectB.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Bullet.h">
+    <ClInclude Include="tomEngine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Psylp4TileManager.h">
+    <ClInclude Include="tomObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="foeObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tomTileManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Utility.h">
@@ -200,19 +206,25 @@
     <ClCompile Include="ZoomingDemo.cpp">
       <Filter>Source Files\More advanced demos</Filter>
     </ClCompile>
-    <ClCompile Include="Psylp4Engine.cpp">
+    <ClCompile Include="demoA.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Psylp4Object.cpp">
+    <ClCompile Include="myTileManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="objectB.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tomEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tomObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="EnemyObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bullet.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Psylp4TileManager.cpp">
+    <ClCompile Include="tomTileManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Utility.cpp">

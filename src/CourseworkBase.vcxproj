@@ -13,7 +13,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{63F64093-23C3-4181-8554-C22C5AE2DDAC}</ProjectGuid>
     <RootNamespace>Coursework3Game</RootNamespace>
-    <ProjectName>the-tomkitty</ProjectName>
+    <ProjectName>The TomKitty</ProjectName>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -93,14 +93,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Bullet.h" />
+    <ClInclude Include="demoA.h" />
     <ClInclude Include="DraggingDemo.h" />
-    <ClInclude Include="EnemyObject.h" />
+    <ClInclude Include="foeObject.h" />
     <ClInclude Include="FlashingDemo.h" />
     <ClInclude Include="ImageMappingDemo.h" />
-    <ClInclude Include="Psylp4Engine.h" />
-    <ClInclude Include="Psylp4Object.h" />
-    <ClInclude Include="Psylp4TileManager.h" />
+    <ClInclude Include="myTileManager.h" />
+    <ClInclude Include="objectB.h" />
+    <ClInclude Include="tomEngine.h" />
+    <ClInclude Include="tomObject.h" />
+    <ClInclude Include="tomTileManager.h" />
     <ClInclude Include="SimpleFlashingDragableImageObject.h" />
     <ClInclude Include="StarfieldDemo.h" />
     <ClInclude Include="UtilCollisionDetection.h" />
@@ -132,7 +134,7 @@
     <ClInclude Include="ZoomingDemo.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="demoA.cpp" />
     <ClCompile Include="DraggingDemo.cpp" />
     <ClCompile Include="DrawingSurface.cpp" />
     <ClCompile Include="EnemyObject.cpp" />
@@ -142,9 +144,11 @@
     <ClCompile Include="BaseEngine.cpp" />
     <ClCompile Include="DisplayableObject.cpp" />
     <ClCompile Include="FontManager.cpp" />
-    <ClCompile Include="Psylp4Engine.cpp" />
-    <ClCompile Include="Psylp4Object.cpp" />
-    <ClCompile Include="Psylp4TileManager.cpp" />
+    <ClCompile Include="myTileManager.cpp" />
+    <ClCompile Include="objectB.cpp" />
+    <ClCompile Include="tomEngine.cpp" />
+    <ClCompile Include="tomObject.cpp" />
+    <ClCompile Include="tomTileManager.cpp" />
     <ClCompile Include="SimpleImage.cpp" />
     <ClCompile Include="SimpleDemo.cpp" />
     <ClCompile Include="StarfieldDemo.cpp" />

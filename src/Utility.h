@@ -1,17 +1,12 @@
-#ifndef UTILITY_H
-#define UTILITY_H
-
-#include "Psylp4TileManager.h"
+#pragma once
 #include "BaseEngine.h"
-#include "SDL.h"
+#include "tomTileManager.h"
 
 struct TileData {
     int x, y;
-    Psylp4TileManager* tm;
+    tomTileManager* tm;
     BaseEngine* engine;
 };
 
 // revert tile colour
 Uint32 revertTile(Uint32 interval, void* param);
-
-#endif // UTILITY_H

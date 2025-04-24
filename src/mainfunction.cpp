@@ -1,10 +1,9 @@
 #include <ctime>
 #include "header.h"
 #include "demoA.h"
-#include "Bullet.h"
-#include "EnemyObject.h"
-#include "Psylp4Engine.h"
-#include "Psylp4Object.h"
+#include "foeObject.h"
+#include "tomEngine.h"
+#include "tomObject.h"
 
 
 // Needs one of the following #includes, to include the class definition
@@ -41,7 +40,7 @@ int doProgram(int argc, char* argv[]) {
 	//ZoomingDemo oMainDemoObject;
 	//DraggingDemo oMainDemoObject;
 
-	Psylp4Engine oMainDemoObject;
+	tomEngine oMainDemoObject;
 	printf("Engine object created!\n");
 	fflush(stdout);
 

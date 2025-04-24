@@ -1,18 +1,8 @@
-﻿  EnemyObject.cpp
-C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  (compiling source file 'EnemyObject.cpp')
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (C:\Users\kinop\Documents\futureShid\GitHub\the-tomkitty\/Debug\) contains files shared from another project (CourseworkBase2020.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tomObject.cpp
+C:\Users\kinop\Documents\futureShid\GitHub\the-tomkitty\src\tomEngine.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'tomObject.cpp')
   
-  Psylp4Engine.cpp
-C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  (compiling source file 'Psylp4Engine.cpp')
-  
-  Psylp4Object.cpp
-C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  (compiling source file 'Psylp4Object.cpp')
-  
-  mainfunction.cpp
-C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\src\Psylp4Engine.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  (compiling source file 'mainfunction.cpp')
-  
+  Utility.cpp
   Generating Code...
-  CourseworkBase.vcxproj -> C:\Users\kinop\Documents\uniShid\2006\CPPCoursework2023-v105\Debug\CourseworkBase2020.exe
+  CourseworkBase.vcxproj -> C:\Users\kinop\Documents\futureShid\GitHub\the-tomkitty\Debug\The TomKitty.exe
